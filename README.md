@@ -1,4 +1,4 @@
-[h1]DEPENDENCIES[/h1]
+# DEPENDENCIES
 This plugin depends on the 'Steamtools' plugin which can be found here:
 https://forums.alliedmods.net/showthread.php?t=236206 
 OR
@@ -8,6 +8,6 @@ https://code.limetech.org/diffusion/ST/
 
 
 
-[h1]HOW TO USE[/h1]
+# HOW TO USE
 Ingame say !ksprice or !ksp <item>
 EX: "!ksprice pro medi gun kit"
