@@ -1,0 +1,7 @@
+DEPENDENCIES
+This plugin depends on the 'Steamtools' plugin which can be found here:
+https://forums.alliedmods.net/showthread.php?t=236206 
+OR
+https://builds.limetech.org/?p=steamtools 
+SOURCE CODE: 
+https://code.limetech.org/diffusion/ST/
