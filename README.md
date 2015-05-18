@@ -1,13 +1,14 @@
 # DEPENDENCIES
-** This plugin depends on the 'Steamtools' plugin which can be found here:
+---
+  This plugin depends on the 'Steamtools' plugin which can be found here:
 https://forums.alliedmods.net/showthread.php?t=236206 
-** OR
+  OR
 https://builds.limetech.org/?p=steamtools 
-** SOURCE CODE: 
+   SOURCE CODE: 
 https://code.limetech.org/diffusion/ST/
 
-
+---
 
 # HOW TO USE
-** While Ingame say '!ksprice <item>' or '!ksp <item>'
+--- While Ingame say '!ksprice <item>' or '!ksp <item>'
 EX: "!ksprice pro medi gun kit"
